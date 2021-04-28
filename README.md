@@ -6,7 +6,7 @@ Um remake do que fiz durante o basecamp de 2021 dos dias de 22 de março até 16
 
 ### Shell/Bash(unix) comandos versão Powershell(windows)
 (*ATENÇÃO: node.js, mingw, git e algumas extensões do vs code instalados*)
-!(https://user-images.githubusercontent.com/81233149/116423141-cacb4c80-a816-11eb-9660-384cd73f55ff.png)
+![VS Code esxtensions part 1](https://user-images.githubusercontent.com/81233149/116423141-cacb4c80-a816-11eb-9660-384cd73f55ff.png)
 
 BASH | POWERSHELL | NOTAS NO MEU CASO
 --- | --- | ---
