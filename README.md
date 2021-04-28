@@ -9,6 +9,6 @@ Um remake do que fiz durante o basecamp de 2021 dos dias de 22 de março até 16
 https://user-images.githubusercontent.com/81233149/116423141-cacb4c80-a816-11eb-9660-384cd73f55ff.png
 
 BASH | POWERSHELL | NOTAS NO MEU CASO
----
+--- | --- | ---
 pwd | get-location ou gl | pwd funciona
 
