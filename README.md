@@ -2,13 +2,21 @@
 Um remake do que fiz na IDE durante o basecamp de 2021 dos dias de 22 de março até 16 de abril, só que no VS Code
 
 *Use it*
+
 *Read it*
+
 *Break it*
+
 *Change it*
+
 *Check it*
+
 *Code it*
+
 *Learn it*
+
 **TECHNOLOGIC**
+
 [ref](https://www.youtube.com/watch?v=D8K90hX4PrE)
 
 #### [_Notion sobre a minha experiência_](https://www.notion.so/42-mar-o-abril-2021-d975c7f92ba4414eb94ae0151fc4ad10)
