@@ -1,5 +1,5 @@
 # Remake 42 basecamp 2021 mar/apr
-Um remake do que fiz na IDE durante o basecamp de 2021 dos dias de 22 de março até 16 de abril, só que no VS Code
+Um remake do que fiz na IDE durante o basecamp de 2021 dos dias de 22 de março até 16 de abril, só que no VS Code na minha máquina
 
 *Use it*
 
