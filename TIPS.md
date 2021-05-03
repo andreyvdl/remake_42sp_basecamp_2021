@@ -2,7 +2,7 @@
 
 ### DIVISÕES E RESTOS
 
-Como regra matemática qualquer número divido por 10 irá resultar em um decimal. Para calcular o resto numa calculadora científica devemos pegar o resultado da divisão substituído o número antes da vírgula por zero e multiplicar esse valor por 10.
+Como regra matemática qualquer número divido por 10 irá resultar em um decimal. Para calcular o resto numa calculadora científica devemos pegar o resultado da divisão substituindo o número antes da vírgula por zero e multiplicanado esse valor por 10.
 [Vídeo explicando melhor](https://www.youtube.com/watch?v=oG5yMRBVysc)
 
 ```c
