@@ -41,6 +41,7 @@ Se continuarmos seguindo o padrão hexadecimal terá:
 
 Então quando dizemos que queremos o 13º valor em hexadecimal, estamos pedindo por "0D".
 Você pode facilmente encontrar exemplos de grandes números hexadecimais num seletor de cores.
+[Vídeo de alguém que tem base para explicar](https://youtu.be/uuUzkqSxCz4)
 
 ### RAIZ DIGITAL
 **_NINE NINE NINE_**
@@ -49,4 +50,4 @@ Raiz digital é uma forma de reduzir uma grande quantidade algorismos para sua "
 
 `(0123456789 = 0+1+2+3+4+5+6+7+8+9 = 45 = 4+5 = 9)`
 
-Bem simples né? espera até você ter que somar um googol de número aleatórios.
+Bem simples né? Espera até você ter que somar um googol de números aleatórios.
