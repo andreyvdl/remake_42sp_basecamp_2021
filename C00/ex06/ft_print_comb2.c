@@ -30,6 +30,7 @@ void	ft_return_combI(int combI)
 void	ft_return_combII(int combII)
 {
 	char c;
+	
 	c = combII / 10 + '0';
 	ft_write(c);
 	c = combII % 10 + '0';
