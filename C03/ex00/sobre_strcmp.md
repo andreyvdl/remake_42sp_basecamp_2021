@@ -11,7 +11,8 @@ return (-1);
 }
 else{
 return (0);
-}```
+}
+```
 
 E tecnicamente falando está certo, mas até hoje não entendo se o valor de retorno esperado é isso ou a diferença de s1 e s2.
 Deixei o código que me deu certo, mas caso você não consiga um certo tente mudar para retornar 1, 0 ou -1.
