@@ -4,10 +4,10 @@
 
 ```c
 if (s1[i] > s2[i]){
-return (1);
+return (42);
 }
 if (s1[i] < s2[i]){
-return (-1);
+return (-42);
 }
 else{
 return (0);
