@@ -1,5 +1,5 @@
 # Remake 42 basecamp 2021 mar/apr
-Um remake do que fiz na IDE durante o basecamp de 2021 dos dias de 22 de março até 16 de abril, só que no VS Code na minha máquina
+Um remake do que fiz na IDE durante o basecamp de 2021 dos dias de 22 de março até 16 de abril, só que no VS Code na minha máquina. Sei que todos os shell estão certos, do C00 até o ft_print_comb.c, do C01 até o ft_strlen.c, do C02 até ft_strcapitalize.c e do C03 até ft_strstr, o ft_strcat não pude testar por conta do lbsd.
 
 *Use it*
 
